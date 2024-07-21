@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://twnd.com.br/$1"
+ }
+  ]
+}
